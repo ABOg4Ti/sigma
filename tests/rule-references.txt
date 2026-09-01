@@ -3484,3 +3484,16 @@ https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
 https://posts.specterops.io/lateral-movement-abuse-the-power-of-dcom-excel-application-3c016d0d9922
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4662
+https://craigclouditpro.wordpress.com/2020/03/04/hunting-malicious-windows-defender-activity/
+https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
+https://www.x86matthew.com/view_post?id=create_svc_rpc
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
+https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
+https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
+https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
+https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
+https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+https://www.crowdstrike.com/blog/windows-restart-manager-part-1/
