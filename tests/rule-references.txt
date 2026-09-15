@@ -3484,3 +3484,10 @@ https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
 https://posts.specterops.io/lateral-movement-abuse-the-power-of-dcom-excel-application-3c016d0d9922
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
+https://ngrok.com/blog-post/new-ngrok-domains
+https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
+https://github.com/AonCyberLabs/Cexigua/blob/34d338620afae4c6335ba8d8d499e1d7d3d5d7b5/overwrite.sh
+https://www.virustotal.com/gui/file/4ffdc72d1ff1ee8228e31691020fc275afd1baee5a985403a71ca8c7bd36e2e4/behavior
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-7.3
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
