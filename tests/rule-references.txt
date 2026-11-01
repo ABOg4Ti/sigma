@@ -3484,3 +3484,12 @@ https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
 https://posts.specterops.io/lateral-movement-abuse-the-power-of-dcom-excel-application-3c016d0d9922
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
+https://www.crowdstrike.com/blog/windows-restart-manager-part-1/
+https://www.aon.com/cyber-solutions/aon_cyber_labs/linux-based-inter-process-code-injection-without-ptrace2/
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5101
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
+https://www.hexacorn.com/blog/2020/08/23/odbcconf-lolbin-trifecta/
+https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/
