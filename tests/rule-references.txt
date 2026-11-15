@@ -3484,3 +3484,13 @@ https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
 https://posts.specterops.io/lateral-movement-abuse-the-power-of-dcom-excel-application-3c016d0d9922
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
+https://www.cyberciti.biz/faq/linux-hide-processes-from-other-users/
+https://github.com/cloudflare/cloudflared/releases
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
+https://www.virustotal.com/gui/file/483fafc64a2b84197e1ef6a3f51e443f84dc5742602e08b9e8ec6ad690b34ed0/behavior
+https://docs.connectwise.com/ConnectWise_Control_Documentation/Get_started/Host_client/View_menu/Backstage_mode
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
+http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
+https://www.hexacorn.com/blog/2020/08/23/odbcconf-lolbin-trifecta/
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
